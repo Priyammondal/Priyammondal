@@ -93,11 +93,10 @@
 <table width="50%">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⭐ Starred <a href="https://github.com/Selfie-bd/RoseDcBot"><b>Selfie-bd/RoseDcBot</b></a></td></tr>
+
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Priyammondal/Priyammondal"><b>Priyammondal/Priyammondal</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Priyammondal/Priyammondal"><b>Priyammondal/Priyammondal</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/yasirarism/MissKatyPyro"><b>yasirarism/MissKatyPyro</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/hahwul/WebHackersWeapons"><b>hahwul/WebHackersWeapons</b></a></td></tr>
+
+
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
@@ -113,8 +112,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/priyam-mondal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Priyam Mondal" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=+918328709274" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="inco-solanki" height="40" width="40" /></a>
-<!-- <a href="https://t.me.c1gaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavsolanki" height="30" width="40" /></a> -->
+
+<a href="https://t.me.c1gaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavsolanki" height="30" width="40" /></a>
 </p>
 
 <!-- <h2 align="center"> ❤ Views and Followers </h2> -->
