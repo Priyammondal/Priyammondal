@@ -14,8 +14,8 @@
 
  
 <p align="center">
-<a href="https://discord.com/users/982719324194217984"/>
-<img src="https://discord.c99.nl/widget/theme-3/982719324194217984.png" />
+<a href="https://discord.com/users/673889580167987221"/>
+<img src="https://discord.c99.nl/widget/theme-3/673889580167987221.png" />
 </a>
 </p>
 
