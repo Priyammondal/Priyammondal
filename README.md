@@ -1,16 +1,129 @@
-### Hi there 👋
+<h1 align="center">Hi👋 I'm Priyam Mondal</h1>
+<h2 align="center">A passionate Full stack web devloper [🇮🇳]</h2>
+<h3 align="left">I'm a full stack developer with a specialization in 💻 MERN stack. I like to solve problems and making robust user-centric products, Looking forward to honing my skills in a challenging work environment.</h3>
+
+- 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer**
+
+- 👨‍💻 All of my projects are available at [Here](https://itsApurba.github.io#projects)
+
+<!-- - 📝 I regularly write articles on [https://dev.to/inco](https://dev.to/inco) -->
+
+- 💬 Ask me about **React, Node, Express.js, MongoDB**
+
+- 📫 Drop a mail **priyammondal096@gmail.com**
+
+ 
+<p align="center">
+<a href="https://discord.com/users/982719324194217984"/>
+<img src="https://discord.c99.nl/widget/theme-3/982719324194217984.png" />
+</a>
+</p>
+
+<br/>
+
+<h2 align="center"> ──「 💡 Languages and Tools 💡 」──</h2>
+
+<br/>
+
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="aws" width="40" height="40"/> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="http://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="react" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="react" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="react" width="40" height="40"/></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<h2 align="center"> ──「 📊 My Github Stats 📊 」──</h2>
+
+<br/>
 
 <!--
-**Priyammondal/Priyammondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Apurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsApurba&show_icons=true&count_private=true&hide=stars&theme=dark)](https://github.com/itsApurba)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsApurba&layout=compact&theme=dark)](https://github.com/itsApurba)
+ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <details align="center">
+    <summary> <b> <samp> Most used languanges </samp></b></summary>
+    <samp>
+        <img align="middle"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsApurba&layout=compact&theme=dark" />
+    </samp>
+</details> -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<p align="center"><img align="center" Width="600px" src="https://github-readme-stats.vercel.app/api?username=Priyammondal&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars" />
+</p>
+
+<!-- https://github-readme-stats.vercel.app/api?username=itsApurba&show_icons=true&count_private=true&hide=stars&theme=dark -->
+
+<br/>
+
+<!-- https://streak-stats.demolab.com/ -->
+
+<p align="center">
+<a href="https://github.com/Priyammonal">
+  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyammondal&layout=compact&langs_count=4&theme=dark" />
+</a>
+<a href="https://github.com/Priyammondal">
+  <img align="center" width="300px" src="https://streak-stats.demolab.com?user=Priyammondal&theme=dark" />
+</a>
+</p>
+
+<br/>
+
+> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
+<!-- https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md?plain=1 -->
+
+<!-- <details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details> -->
+
+<h2 align="center"> ──「 ⚡ Recent Activity ⚡ 」──</h2>
+
+<br/>
+
+<div style="margin-top:5px" align="center">
+<table width="50%">
+  <tbody>
+  <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/Selfie-bd/RoseDcBot"><b>Selfie-bd/RoseDcBot</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Priyammondal/Priyammondal"><b>Priyammondal/Priyammondal</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Priyammondal/Priyammondal"><b>Priyammondal/Priyammondal</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/yasirarism/MissKatyPyro"><b>yasirarism/MissKatyPyro</b></a></td></tr>
+<tr><td align="center">⭐ Starred <a href="https://github.com/hahwul/WebHackersWeapons"><b>hahwul/WebHackersWeapons</b></a></td></tr>
+  <!--RECENT_ACTIVITY:end-->
+  </tbody>
+</table>
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=0e6phl99vxmyt3d7q4fedocyo&count=3" alt="example"/> -->
+</div>
+
+<br/>
+
+<a href="https://github.com/Priyammondal"><img alt="Priyam Mondal" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyammondal&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/priyam-mondal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Priyam Mondal" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=+918328709274" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="inco-solanki" height="40" width="40" /></a>
+<!-- <a href="https://t.me.c1gaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavsolanki" height="30" width="40" /></a> -->
+</p>
+
+<!-- <h2 align="center"> ❤ Views and Followers </h2> -->
+<br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Priyammondal&label=Profile%20views&color=19b40e&style=flat-square" alt="Priyammondal" /> 
+<a href="https://github.com/Priyammondal?tab=followers"><img src="https://img.shields.io/github/followers/Priyammondal?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+---
