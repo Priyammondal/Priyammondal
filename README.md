@@ -89,22 +89,6 @@
 
 <br/>
 
-<div style="margin-top:5px" align="center">
-<table width="50%">
-  <tbody>
-  <!--RECENT_ACTIVITY:start-->
-
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Priyammondal/Priyammondal"><b>Priyammondal/Priyammondal</b></a></td></tr>
-
-
-  <!--RECENT_ACTIVITY:end-->
-  </tbody>
-</table>
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=0e6phl99vxmyt3d7q4fedocyo&count=3" alt="example"/> -->
-</div>
-
-<br/>
-
 <a href="https://github.com/Priyammondal"><img alt="Priyam Mondal" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyammondal&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
 
 <br/>
