@@ -4,7 +4,7 @@
 
 <!-- - 🌱 Currently I’m actively looking for new opportunities as **MERN stack developer** -->
 
-- 👨‍💻 All of my projects are available at [Here](https://priyammondal.netlify.app/)
+- 👨‍💻 All of my projects are available at [Here](https://priyammondal.github.io/portfolio/)
 
 <!-- - 📝 I regularly write articles on [https://dev.to/inco](https://dev.to/inco) -->
 
