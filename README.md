@@ -23,8 +23,6 @@ A Full Stack Web developer🎯 from India.
 ![Priyam's github stats](https://github-readme-stats.vercel.app/api?username=Priyammondal&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyammondal&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Priyammondal)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 📫 Drop a mail **priyammondal096@gmail.com**
