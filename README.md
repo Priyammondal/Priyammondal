@@ -28,7 +28,8 @@ A Full Stack Web developer🎯 from India.
 📫 Drop a mail **priyammondal096@gmail.com**
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/priyam-mondal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Priyam Mondal" height="40" width="40" /></a> <a href="https://www.hackerrank.com/Priyam1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavsolanki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyam-mondal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Priyam Mondal" height="40" width="40" /></a> 
+<a href="https://www.hackerrank.com/Priyam1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Priyam Mondal" height="30" width="40" /></a>
 </p>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Priyammondal&label=Profile%20views&color=19b40e&style=flat-square" alt="Priyammondal" /> 
