@@ -1,5 +1,4 @@
 ### Hi there, I'm Priyam👦,
-
 A Full Stack Web developer🎯 from India.
 
 - 👨‍💻 Full Stack MERN Developer
