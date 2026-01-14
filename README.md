@@ -20,9 +20,6 @@ A Full Stack Web developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Priyam's github stats](https://github-readme-stats.vercel.app/api?username=Priyammondal&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyammondal&theme=tokyonight&layout=compact)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 📫 Drop a mail **priyammondal096@gmail.com**
